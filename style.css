@@ -1,0 +1,56 @@
+.center {
+    display: block;
+    margin: 25px auto;
+}
+
+.search {
+    width: 500px;
+    height: 35px;
+    border-radius: 75px;
+    border: 1px solid #ddd;
+}
+
+.logo {
+    padding-top: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items: end;
+}
+
+.navbar {
+    padding: 15px;
+}
+
+.navbar li {
+    float: right;
+    padding: 7px;
+    font-size: 13px;
+    color: rgba(0,0,0,0.87);
+}
+
+.footer {
+    background: #f2f2f2;
+    position: absolute;
+    width: 99%;
+    bottom: 0;
+    padding: 15px 0 15px 0;
+    font-family: arial sans-serif;
+    color: #71719e;
+    font-size: 15px;
+    color: rgba(0,0,0,.54);
+}
+.izquierda li {
+    float: left;
+    padding: 15px 15px 0 0;
+    font-size: 13px;
+}
+
+.derecha li {
+    float: right;
+    padding: 15px 0 0 15px;
+    font-size: 13px;
+}
